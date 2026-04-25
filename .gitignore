@@ -1,0 +1,16 @@
+# Build files
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Object files
+*.o
+*.out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
